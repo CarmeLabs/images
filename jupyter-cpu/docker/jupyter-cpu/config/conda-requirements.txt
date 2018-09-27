@@ -1,1 +1,6 @@
 pip
+fastparquet
+pytorch
+torchvision
+beautifulsoup4
+python-oauth2
